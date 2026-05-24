@@ -1,0 +1,6 @@
+RESPUESTAS
+1-Las ramas en Git sirven para organizar el desarrollo de un proyecto. Permiten trabajar en diferentes versiones del código de forma separada sin afectar la rama principal (main). Cada rama es independiente y ayuda a desarrollar nuevas funciones o realizar pruebas sin modificar el proyecto principal.
+2-Para visualizar las ramas del repositorio local se utiliza el comando "git branch". La rama activa aparece marcada con un asterisco (*).
+3-El comando "git branch nombre_rama" se utiliza para crear una nueva rama en el repositorio.
+4-Para posicionarse en otra rama se utiliza el comando "git checkout nombre_rama".
+5-El comando "git merge" se utiliza para fusionar ramas, es decir, unir los cambios de una rama con otra, integrando el trabajo realizado en ambas.
